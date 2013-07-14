@@ -1,0 +1,16 @@
+{
+  "author": "",
+  "name": "node_unit_test_example",
+  "description": "shows you how to unit test nodejs code",
+  "version": "0.0.0",
+  "dependencies": {
+    "chai": "~1.7.2",
+    "sinon": "~1.7.3",
+    "sandboxed-module": "~0.2.1"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
